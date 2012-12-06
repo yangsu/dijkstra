@@ -5,7 +5,7 @@ December 5, 2012
 
 ### How to run
 ```bash
-g++ dijkstra.cpp -o dijkstra && ./dijkstra
+g++ dijkstra.cpp -o dijkstra.out && ./dijkstra.out
 ```
 
 ### Output
