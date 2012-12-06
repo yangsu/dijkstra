@@ -1,9 +1,7 @@
-# Computer Network Architecture
-# Assignment 3 ECE 356
+# ECE 356 Computer Network Architecture
+# Assignment 3 - Dijkstra’s Routing Algorithm
 Yang Su
 December 5, 2012
-
-## Dijkstra’s Routing Algorithm
 
 ### How to run
 ```bash
@@ -22,4 +20,4 @@ Shortest path to T : [ O A B D T ]  Cost: 13
 ```
 
 ### References
-http://en.wikipedia.org/wiki/Dijkstra's_algorithm
+[http://en.wikipedia.org/wiki/Dijkstra's_algorithm](http://en.wikipedia.org/wiki/Dijkstra's_algorithm)
